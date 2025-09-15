@@ -1,1 +1,2 @@
-Use these codes to understand the concept/logic. Dont just copy for the sake of record.
+Understand the logic behind these codes—don’t just copy them for submission.
+Enjoy Coding!!
