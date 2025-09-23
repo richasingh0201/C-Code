@@ -15,4 +15,4 @@ a=a/b;
 */
 printf("\n After swap a=%d    b=%d",a,b);
     return 0;
-}
+}a
