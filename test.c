@@ -1,2 +1,8 @@
 # include<stdio.h>
-int main ( ) { int code = 2 , phase = 1 ; switch ( code * phase ) { case 1 : printf ( "Phase1-" ) ; phase ++ ; if ( phase < 3 ) { switch ( code * phase ) { case 4 : printf ( "SubPhase4-" ) ; break ; case 6 : printf ( "SubPhase6-" ) ; break ; default : printf ( "SubDefault-" ) ; } } break ; case 2 : printf ( "Phase2-" ) ; if ( code + phase == 3 ) { printf ( "Match-" ) ; } break ; default : printf ( "Unknown-" ) ; } printf ( "End:%d" , code * phase ) ; return 0 ; }
+int main()
+{
+long long int no=23451234567;
+int c=printf("Hello  ");
+printf("\n count of no is %d",c);
+
+}
