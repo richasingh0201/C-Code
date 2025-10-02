@@ -9,7 +9,7 @@ int main()
         printf("\n Never Entered while loop with value of i =%d",i);
         i++;
     }
-    //do while exit control loop
+    do //while exit control loop
         {
         printf("\n Entered do while loop atleast for once with value of i =%d",i);
         i++;
